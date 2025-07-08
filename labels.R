@@ -108,4 +108,4 @@ pw1 <- patchwork::wrap_plots(
   fig1, fig2, fig3, ncol = 1, guides = "collect", axes = "collect"
 )
 
-ggsave("plots.svg", pw1, width = 6, height = 5)
+ggsave("plots.png", pw1, width = 6, height = 5)
