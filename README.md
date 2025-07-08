@@ -5,5 +5,5 @@ Here are three ways to label the bars on a stacked barplot. The one I like best 
 
 Here's the output:
 
-![](plots.png){width=60%}
+![](plots.png){width=500px}
 
